@@ -20,6 +20,8 @@ body  {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  transition: ease-in-out 1s;
+
 }
 
 .hamburger div {
@@ -27,6 +29,8 @@ body  {
   height: 10px;
   width: 70%;
   margin: auto;
+  transition: ease-in-out 1s;
+
 }
 
 li {
